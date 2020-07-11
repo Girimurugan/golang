@@ -12,6 +12,7 @@ func main(){
 
 }
 
+// Pointer semantics
 func increment(val *int){
 
 	*val++
