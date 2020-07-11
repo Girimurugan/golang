@@ -13,6 +13,7 @@ func main(){
 }
 
 // Pointer semantics
+// This allows for learning about the pointer semantics
 func increment(val *int){
 
 	*val++
